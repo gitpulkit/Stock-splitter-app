@@ -1,0 +1,8 @@
+{
+    "stocks":
+[
+    {"id":"1", "stockname":"tata"},
+
+    {"id":"2", "stockname":"bhel"}
+]
+}
